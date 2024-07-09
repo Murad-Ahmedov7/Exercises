@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\obj\Debug\net8.0\Lesson 11. Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\obj\Debug\net8.0\Lesson 11. Stream.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\obj\Debug\net8.0\Lesson 11. Stream.AssemblyInfo.cs
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\obj\Debug\net8.0\Lesson 11. Stream.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\bin\Debug\net8.0\Lesson 11. Stream.exe
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\bin\Debug\net8.0\Lesson 11. Stream.deps.json
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\bin\Debug\net8.0\Lesson 11. Stream.runtimeconfig.json
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\bin\Debug\net8.0\Lesson 11. Stream.dll
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\bin\Debug\net8.0\Lesson 11. Stream.pdb
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\obj\Debug\net8.0\Lesson 11. Stream.dll
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\obj\Debug\net8.0\refint\Lesson 11. Stream.dll
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\obj\Debug\net8.0\Lesson 11. Stream.pdb
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\obj\Debug\net8.0\Lesson 11. Stream.genruntimeconfig.cache
+C:\Users\User\source\repos\Lesson 11. Stream\Lesson 11. Stream\obj\Debug\net8.0\ref\Lesson 11. Stream.dll
