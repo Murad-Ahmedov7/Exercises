@@ -17,14 +17,6 @@
 
 
 
-//qeydler json serialize etdikde parametrik kostruktor yazilmir.
-
-//filedan oxuyanda json deserialize olunur.
-
-//Exits olan hisseni sorus(read all text)
-
-//Run olduqda bir defe isleyecek(control panel (initalize olan )
-
 
 
 
