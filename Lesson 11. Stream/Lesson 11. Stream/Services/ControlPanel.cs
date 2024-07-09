@@ -7,7 +7,7 @@ namespace Lesson_11._Stream.Services
 {
     internal class ControlPanel
     {
-        public User User1 { get; set; } // User User1 =new User() ile ona gore yazmiriq ki biz sonradan o prosesi yazacaqyiq
+        public User User1 { get; set; } 
 
         public ControlPanel()
         {
@@ -100,15 +100,7 @@ namespace Lesson_11._Stream.Services
 
         public void Start()
         {
-            //for (int i = 0; i < 2; i++)
-            //{
-            //    DrinkWater();
-            //    DrinkWater();
-            //    DrinkWater();
-            //    EndDate();
-            //}
-            //ShowHistory();
-            //SaveChanges();
+
             while (true)
             {
                 Console.Clear();
